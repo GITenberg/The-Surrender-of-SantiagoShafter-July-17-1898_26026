@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/103
     wikipedia: http://en.wikipedia.org/wiki/Frank_Norris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26026#The-Surrender-of-SantiagoShafter-July-17-1898
 gutenberg_issued: '2008-07-11'
 gutenberg_type: Text
 identifiers:
